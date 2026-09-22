@@ -3,7 +3,14 @@
 <h2>👨‍💻 Network/CyberSecurity Projects:</h2>
 
 
-- <b>Full Stack Web App (React, NodeJS, ...)</b>
+- <b>Network Support Technician / Engineer</b>
+- <b>NOC Technician / Engineer</b>
+- <b>Network Administrator</b>
+- <b>Network Engineer</b>
+- <b>Network Architect</b>
+- <b>Network Security Engineer</b>
+- <b>Wireless Network Engineer</b>
+- <b>ISP / Service Provider Network Enginee</b>
 
 
 - <b>Python</b>
